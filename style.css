@@ -373,6 +373,7 @@ footer ul a:hover {
         width: 12rem;
         align-items: flex-start;
         justify-content: center;
+        display: none;
     }
 
     .nav-items li {
